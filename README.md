@@ -49,6 +49,8 @@ Authentication: Auth0
 1. Clone the Repository:
 
    * git clone https://github.com/your-repository/coffee-shop-website.git
+  
+Instalation of node, as well as docker.
 
 **TBA**
 
